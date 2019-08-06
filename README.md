@@ -1,4 +1,4 @@
-# Backup MySQL Container
+# Docker Image to Daily Backup MySQL Docker Container
 
 Creates daily backups of a connected mysql database.
 
